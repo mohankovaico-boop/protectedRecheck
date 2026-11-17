@@ -1,12 +1,11 @@
 ---
-guid: 28d571f5-9e6f-4457-9d64-c1384bf0d802
+guid: ff3dfd91-7e1f-4a60-80e1-e8b9b5493768
 title: How-to guides
 seo:
   title: How-to guides
 display:
   toc: true
+  outline: true
 feedback:
   comments: true
-status:
-  expiresAt: 0001-01-01
 ---
