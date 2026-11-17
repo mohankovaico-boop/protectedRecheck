@@ -1,12 +1,11 @@
 ---
-guid: cf950d61-b44b-48e0-b3af-6d4a5f4f35bb
+guid: b4ec0e41-0ab4-472c-a5ca-3ebe0024bcd0
 title: Getting started guides
 seo:
   title: Getting started guides
 display:
   toc: true
+  outline: true
 feedback:
   comments: true
-status:
-  expiresAt: 0001-01-01
 ---
