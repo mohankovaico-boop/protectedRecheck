@@ -1,0 +1,32 @@
+{
+  "serializerVersion": 1,
+  "languages": [
+    { "code": "en", "default": true }
+  ],
+  "nodes": [
+    {
+      "paths": [
+        { "langs": ["en"], "path": "getting-started-guides/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "getting-started-guides/getting-started-guides-1.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "how-to-guides/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "how-to-guides/how-to-guides-1.md" }
+          ]
+        }
+      ]
+    }
+  ]
+}
